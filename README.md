@@ -23,7 +23,7 @@ Go back to VirtualBox, open it, and then follow these steps to create a virtual 
 ![357984232-be781400-ee5f-4295-b4e7-3d91c3acae38](https://github.com/user-attachments/assets/a0812a9d-aa07-40c1-a735-148a489291c9)
 
 
-التقاط PNG5
+
 2- Choose a name for your system environment, and be sure to choose the appropriate version of Ubuntu then click next
 ![image](https://github.com/user-attachments/assets/23acb6ce-90d2-4dea-bde5-a32016520de0)
 ![image](https://github.com/user-attachments/assets/4a3bbe55-c834-4c4d-850d-1387d0316ad8)
@@ -33,13 +33,13 @@ Go back to VirtualBox, open it, and then follow these steps to create a virtual 
 ![357984631-2a06f11e-92c2-46fb-aa4f-8a3740bb1fa0](https://github.com/user-attachments/assets/d987223a-1de3-4cbb-8f7a-14af78ab247d)
 
 
-التقاط PNG6
+
 4- In the (hard disk) partition you can choose (create a virtual hard disk now) from the list, then click (create)
 
 5- select the size of the virtual hard disk (It is recommended to be more than 30 GB), then click (Next)
 
 
-التقاط PNG88
+
 6- Then you will see all the settings for your virtual environment, then click Finish
 ![image](https://github.com/user-attachments/assets/d896a93b-4641-4d3c-a59b-6902a1713e20)
 
@@ -104,7 +104,6 @@ After adjusting the virtual machine settings, we will now take the steps to oper
 Finally, Ubuntu is ready
 ![image](https://github.com/user-attachments/assets/4427f7c7-e4aa-4e5c-a8bc-edb40c8ce207)
 
-التقاط
 Last step : 
 Open terminal 
 write in search terminal to find it 
