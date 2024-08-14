@@ -1,4 +1,5 @@
 ROS Noetic - Ubuntu 20.04
+
 Step 1 : Install VirtualBox
 Go to the link below to download VirtualBox https://www.virtualbox.org
 <img width="1440" alt="1" src="https://github.com/user-attachments/assets/5ea28154-daee-4ab6-84d4-bfc8bb2ce42b">
@@ -19,7 +20,8 @@ Step 3 : Install and open Ubuntu 20.04 on VirtualBox
 Go back to VirtualBox, open it, and then follow these steps to create a virtual machine to run Ubuntu on
 
 1-click (New)
-![image](https://github.com/user-attachments/assets/be781400-ee5f-4295-b4e7-3d91c3acae38)
+![357984232-be781400-ee5f-4295-b4e7-3d91c3acae38](https://github.com/user-attachments/assets/a0812a9d-aa07-40c1-a735-148a489291c9)
+
 
 التقاط PNG5
 2- Choose a name for your system environment, and be sure to choose the appropriate version of Ubuntu then click next
@@ -28,7 +30,8 @@ Go back to VirtualBox, open it, and then follow these steps to create a virtual 
 
 
 3- Specify the amount of memory within the green color, then click (Next)
-![image](https://github.com/user-attachments/assets/2a06f11e-92c2-46fb-aa4f-8a3740bb1fa0)
+![357984631-2a06f11e-92c2-46fb-aa4f-8a3740bb1fa0](https://github.com/user-attachments/assets/d987223a-1de3-4cbb-8f7a-14af78ab247d)
+
 
 التقاط PNG6
 4- In the (hard disk) partition you can choose (create a virtual hard disk now) from the list, then click (create)
@@ -65,15 +68,19 @@ After adjusting the virtual machine settings, we will now take the steps to oper
 
 ![image](https://github.com/user-attachments/assets/078819d8-b9bb-43ea-a704-acab421629df)
 
+
 3-choose the language that you prefer then click (install Ubuntu)
 ![image](https://github.com/user-attachments/assets/cb4332f4-41bd-4fcb-bc44-13d460fbc791)
+
 
 4-choose (English) then click continue
 ![image](https://github.com/user-attachments/assets/acb3a179-216f-461d-a0b6-7f26490dc3fb)
 
 
+
 5- now make sure to check (install third party software for graphics and Wi-Fi ) them click (continue)
 ![image](https://github.com/user-attachments/assets/67110d02-de2d-4075-be0e-0ab4f647dc59)
+
 
 
 6- select the first option and click (install now)
@@ -98,12 +105,7 @@ Finally, Ubuntu is ready
 ![image](https://github.com/user-attachments/assets/4427f7c7-e4aa-4e5c-a8bc-edb40c8ce207)
 
 التقاط
-Step 4 : Install ROS-Noetic on Ubuntu 20.04
-
-1- open terminal from this mark
-
-التقاط
-2- Write in search (terminal)
-
-التقاط PNG3
-3- follow the instructions here https://wiki.ros.org/noetic/Installation/Ubuntu#Installation-1
+Last step : 
+Open terminal 
+write in search terminal to find it 
+Follow the instructions here  https://wiki.ros.org/noetic/Installation/Ubuntu#Installation-1
